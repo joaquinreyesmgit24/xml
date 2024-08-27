@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<a9buY7Ei9R6W8CakSKZwQ4 xmlns:jr="http://openrosa.org/javarosa" xmlns:orx="http://openrosa.org/xforms" id="a9buY7Ei9R6W8CakSKZwQ4" version="5 (2024-08-20 22:25:14)">
+          <formhub>
+            <uuid>714037a587a14d68a2a9517d911579ea</uuid>
+          </formhub>
+          <start>2024-08-21T07:48:55.565-04:00</start>
+          <end>2024-08-21T07:49:43.287-04:00</end>
+          <_Ya_ingres_informaci_n_del_GP>s</_Ya_ingres_informaci_n_del_GP>
+          
+          <Regi_n>Region_Metropolitana</Regi_n>
+          <Comuna>San_Bernardo_</Comuna>
+          <Nombre_observador>Tupac_Olate</Nombre_observador>
+          <_Ya_complet_informaci_n_del_c>s</_Ya_complet_informaci_n_del_c>
+          
+          
+          
+          
+          
+          <Ingrese_observaci_n_a_realizar>observaciones_autom_viles__cam</Ingrese_observaci_n_a_realizar>
+          <group_vl1iq84>
+            <Observaciones_Autom_netas_furgones_etc/>
+            <Visibilidad_del_interior_del_autom_vil>Vehículo sin polarizado, visible el interior.</Visibilidad_del_interior_del_autom_vil>
+            <Respeta_normas_del_t_ro_sigo_pare_u_otro>Sí</Respeta_normas_del_t_ro_sigo_pare_u_otro>
+            <Tipo_de_veh_culo>Auto/ SW</Tipo_de_veh_culo>
+            <Edad_para_todos_los_rida_P1_Conductor>adulto__a</Edad_para_todos_los_rida_P1_Conductor>
+            <Uso_de_cintur_n_para_rida_P1_Conductor>s</Uso_de_cintur_n_para_rida_P1_Conductor>
+            <Plaza_ocupadas_por_corrida_de_2/>
+            
+            
+            
+            <Plaza_ocupadas_por_corrida_de_3/>
+            
+            
+            
+            <Plaza_ocupadas_por_corrida_de_4/>
+            
+            
+            
+            <Plaza_ocupadas_por_corrida_de_5/>
+            
+            
+            
+            <Plaza_ocupadas_por_corrida_de_6/>
+            
+            
+            
+            <Plaza_ocupadas_por_corrida_de_7/>
+            
+            
+            
+            <Plaza_ocupadas_por_corrida_de_8/>
+            
+            
+            
+            
+            <Sexo_del_conductor>femenino</Sexo_del_conductor>
+            <Uso_del_celular_s_lo_conductor>no_utiliza_celular</Uso_del_celular_s_lo_conductor>
+            <Factores_de_distracci_n_s_lo_>ninguno</Factores_de_distracci_n_s_lo_>
+            
+            <Placa_patente_oculta>no</Placa_patente_oculta>
+            <Uso_de_Veh_culo>particular</Uso_de_Veh_culo>
+          </group_vl1iq84>
+          
+          <__version__>v9f3b4uz5vcWRiLXu9nCpN</__version__>
+          <meta>
+            <instanceID>uuid:8ce9f851-452a-420b-9083-ddefb32b9481</instanceID>
+          </meta>
+        </a9buY7Ei9R6W8CakSKZwQ4>

@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<a9buY7Ei9R6W8CakSKZwQ4 xmlns:jr="http://openrosa.org/javarosa" xmlns:orx="http://openrosa.org/xforms" id="a9buY7Ei9R6W8CakSKZwQ4" version="5 (2024-08-20 22:25:14)">
+          <formhub>
+            <uuid>714037a587a14d68a2a9517d911579ea</uuid>
+          </formhub>
+          <start>2024-08-21T07:18:54.611-04:00</start>
+          <end>2024-08-21T07:20:35.104-04:00</end>
+          <_Ya_ingres_informaci_n_del_GP>s</_Ya_ingres_informaci_n_del_GP>
+          
+          <Regi_n>Region_Metropolitana</Regi_n>
+          <Comuna>San_Bernardo_</Comuna>
+          <Nombre_observador>Tupac_Olate</Nombre_observador>
+          <_Ya_complet_informaci_n_del_c>s</_Ya_complet_informaci_n_del_c>
+          
+          
+          
+          
+          
+          <Ingrese_observaci_n_a_realizar>observaciones_motos__motonetas</Ingrese_observaci_n_a_realizar>
+          
+          <group_vf8ua68>
+            <Observaciones_motos_motonetas_scooter/>
+            <Respeta_normas_del_t_ro_sigo_p>Sí</Respeta_normas_del_t_ro_sigo_p>
+            <Tipo_de_veh_culo_001>moto</Tipo_de_veh_culo_001>
+            <Edad_para_todos_los_pasajeros_001>adulto__a</Edad_para_todos_los_pasajeros_001>
+            <Uso_de_casco_para_todos_los_pasajeros>s</Uso_de_casco_para_todos_los_pasajeros>
+            <Uso_de_reflectantes_todos_los_pasajeros>s</Uso_de_reflectantes_todos_los_pasajeros>
+            <Plaza_ocupadas_P1_Conductor2/>
+            
+            
+            
+            <Plaza_ocupadas_P1_Conductor3/>
+            
+            
+            
+            <Plaza_ocupadas_P1_Conductor4/>
+            
+            
+            
+            <Plaza_ocupadas_P1_Conductor5/>
+            
+            
+            
+            <Sexo_del_conductor_001>masculino</Sexo_del_conductor_001>
+            <Uso_del_celular_s_lo_conductor_001>no_utiliza_celular</Uso_del_celular_s_lo_conductor_001>
+            <Uso_de_guantes_s_lo_conductor>s</Uso_de_guantes_s_lo_conductor>
+            <Uso_de_calzado_ca_a_alta_s_lo_conductor>s</Uso_de_calzado_ca_a_alta_s_lo_conductor>
+            <Factores_de_distracci_n_s_lo>ninguno</Factores_de_distracci_n_s_lo>
+            
+            <Placa_patente_oculta_001>no</Placa_patente_oculta_001>
+            <Uso_de_Veh_culo_001>particular</Uso_de_Veh_culo_001>
+            <Luces_encendidas>s</Luces_encendidas>
+            <Repartidor_o_delivery>no</Repartidor_o_delivery>
+          </group_vf8ua68>
+          <__version__>v9f3b4uz5vcWRiLXu9nCpN</__version__>
+          <meta>
+            <instanceID>uuid:933765b5-1f39-4823-a765-5cc0a1e458b8</instanceID>
+          </meta>
+        </a9buY7Ei9R6W8CakSKZwQ4>
